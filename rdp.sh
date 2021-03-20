@@ -1,6 +1,5 @@
-sudo apt update
 sudo apt -y install screen
-sudo apt -y install lxde
+sudo apt -y install xfce4
 sudo apt -y install firefox
 sudo apt install tightvncserver
 tightvncserver :1
